@@ -1,6 +1,15 @@
 # Árvores de decisão
 
-Para executar o algortimo é necessário ter instalado uma versão do Python <https://www.python.org/downloads/> e as Bibliotecas a seguir:
+## Depêndencias:
+
+## 1. Python 
+><https://www.python.org/downloads/> 
+
+## 2. JupyterLab
+ ```Python
+pip install jupyterlab 
+```
+## 3. Bibliotecas:
 
 - pandas
 ```Python
